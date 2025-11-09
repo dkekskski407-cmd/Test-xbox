@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptBox", "ScriptBox\ScriptBox.csproj", "{9B2C0A1E-2F3A-4B2A-8A6B-1D2E3F4A5B6C}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|x64 = Debug|x64
+        Release|x64 = Release|x64
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {9B2C0A1E-2F3A-4B2A-8A6B-1D2E3F4A5B6C}.Debug|x64.ActiveCfg = Debug|x64
+        {9B2C0A1E-2F3A-4B2A-8A6B-1D2E3F4A5B6C}.Debug|x64.Build.0 = Debug|x64
+        {9B2C0A1E-2F3A-4B2A-8A6B-1D2E3F4A5B6C}.Release|x64.ActiveCfg = Release|x64
+        {9B2C0A1E-2F3A-4B2A-8A6B-1D2E3F4A5B6C}.Release|x64.Build.0 = Release|x64
+    EndGlobalSection
+EndGlobal
